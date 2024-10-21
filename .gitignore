@@ -21,3 +21,11 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# firebase stuff
+*firebase*
+
+# courses source code
+src/assets/courses/
+
+src/courses/
