@@ -28,7 +28,7 @@ while true; do
             break
             ;;
         [Nn]) 
-            echo "Canceling"
+            echo "Skipping firebase build."
             break
             ;;
         *) 
